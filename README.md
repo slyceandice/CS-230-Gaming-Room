@@ -16,4 +16,4 @@
   I think I pick and suggested the options that keeps the games integrity and player reach as the #1 priority. Basing it on the users needs when designing is just an easy starting point to expand upon. For me coming up with that point is usually the hardest but having that helps me a ton...ends up making something cohesive that both parties like. 
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-  
+  I kinda used to normall just go with the flow and have it all jumbled together. I would know what I want in the end but along the way, when I have to stop at different points, I end up making something a mess and not cohesive. Having this documentation and really having the different goal posts helps keep my code cleaner and though process more in line each time I work on a project. I think splitting things up and putting it together overall in the end is what I would like to do for everything similar. 
